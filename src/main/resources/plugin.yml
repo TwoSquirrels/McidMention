@@ -1,7 +1,7 @@
-name: McidMention
+name: ${project.name}
 version: ${project.version}
-main: com.github.twosquirrels.mcidmention.McidMention
+main: ${project.groupId}.${project.artifactId}.${project.name}
 api-version: 1.16
 authors: [ TwoSquirrels ]
-description: MCID でメンションができるプラグイン
-website: https://github.com/TwoSquirrels/McidMention#readme
+description: ${project.description}
+website: ${project.url}
