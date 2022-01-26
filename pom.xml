@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://github.com/TwoSquirrels/McidMention#readme</url>
+    <url>https://github.com/TwoSquirrels/McidMention</url>
     <inceptionYear>2022</inceptionYear>
     <licenses>
         <license>
@@ -36,6 +36,16 @@
             <version>1.16</version>
         </paper>
     </properties>
+
+    <scm>
+        <connection>${project.scm.url}</connection>
+        <developerConnection>${project.scm.url}</developerConnection>
+        <url>scm:git:${project.url}.git</url>
+    </scm>
+    <issueManagement>
+        <system>GitHub</system>
+        <url>${project.url}/issues</url>
+    </issueManagement>
 
     <build>
         <plugins>
