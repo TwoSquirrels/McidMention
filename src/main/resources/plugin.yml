@@ -1,0 +1,7 @@
+name: McidMention
+version: ${project.version}
+main: com.github.twosquirrels.mcidmention.McidMention
+api-version: 1.16
+authors: [ TwoSquirrels ]
+description: MCID でメンションができるプラグイン
+website: https://github.com/TwoSquirrels/McidMention#readme
