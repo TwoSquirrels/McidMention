@@ -17,6 +17,25 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <url>https://github.com/TwoSquirrels/McidMention#readme</url>
+    <inceptionYear>2022</inceptionYear>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <id>TwoSquirrels</id>
+            <url>https://github.com/TwoSquirrels</url>
+            <timezone>Asia/Tokyo</timezone>
+        </developer>
+    </developers>
+    <properties>
+        <paper>
+            <version>1.16</version>
+        </paper>
+    </properties>
 
     <build>
         <plugins>
