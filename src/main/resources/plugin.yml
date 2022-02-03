@@ -4,4 +4,4 @@ main: ${project.groupId}.${project.artifactId}.${project.name}
 api-version: 1.16
 authors: [ TwoSquirrels ]
 description: ${project.description}
-website: ${project.url}
+website: ${project.url}#readme

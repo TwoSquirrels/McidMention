@@ -5,18 +5,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.twosquirrels</groupId>
-    <artifactId>mcidmention</artifactId>
+    <artifactId>mention4paper</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>McidMention</name>
+    <name>Mention4Paper</name>
 
-    <description>MCID でメンションができるプラグイン</description>
+    <description>Paper Minecraft 鯖用、設定が豊富なメンションができるプラグイン </description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>https://github.com/TwoSquirrels/McidMention</url>
+    <url>https://github.com/TwoSquirrels/Mention4Paper</url>
     <inceptionYear>2022</inceptionYear>
     <licenses>
         <license>
@@ -31,11 +31,6 @@
             <timezone>Asia/Tokyo</timezone>
         </developer>
     </developers>
-    <properties>
-        <paper>
-            <version>1.16</version>
-        </paper>
-    </properties>
 
     <scm>
         <connection>${project.scm.url}</connection>
