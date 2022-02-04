@@ -2,6 +2,9 @@ name: ${project.name}
 version: ${project.version}
 main: ${project.groupId}.${project.artifactId}.${project.name}
 api-version: 1.16
-authors: [ TwoSquirrels ]
+authors:
+  - TwoSquirrels
 description: ${project.description}
 website: ${project.url}#readme
+depend:
+  - CommandAPI

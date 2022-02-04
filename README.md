@@ -19,11 +19,17 @@ Paper Minecraft 鯖用、設定が豊富なメンションができるプラグ�
 
 [MIT LICENSE](/LICENSE)  
 
-`Copyright 2022 TwoSquirrels`  
+`(C) 2022 TwoSquirrels`  
 
 ## Download
 
 [Releases](//github.com/TwoSquirrels/Mention4Paper/releases/latest) から最新版がダウンロードできるよ！  
+
+### Depends
+
+前提プラグイン (これらのプラグインも一緒に入れないとうまく動かないよ！)  
+
+- [CommandAPI](//github.com/JorelAli/CommandAPI/releases/latest)
 
 ## Features
 
