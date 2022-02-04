@@ -11,7 +11,7 @@
 
     <name>Mention4Paper</name>
 
-    <description>Paper Minecraft 鯖用、設定が豊富なメンションができるプラグイン </description>
+    <description>Paper Minecraft 鯖用、設定が豊富なメンションができるプラグイン</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
